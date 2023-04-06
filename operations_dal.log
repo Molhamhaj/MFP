@@ -1,0 +1,677 @@
+2023-03-25 01:22:56,064 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:22:56,064 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:22:56,076 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:22:56,117 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:23:11,043 - api.utils - INFO - Getting flights for origin country id: 4, destination country id: 4, and date: 2023-03-25
+2023-03-25 01:23:13,822 - api.utils - INFO - Getting flights for origin country id: 2, destination country id: 4, and date: 2023-03-25
+2023-03-25 01:23:15,382 - api.utils - INFO - Getting flights for origin country id: 1, destination country id: 4, and date: 2023-03-25
+2023-03-25 01:23:19,104 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:23:19,104 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:23:19,114 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:23:19,152 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:25:05,539 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:25:05,540 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:25:05,551 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:25:05,575 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:25:12,515 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:25:12,521 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:25:12,525 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:25:12,565 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:25:14,789 - api.utils - INFO - Getting user for username: testing123
+2023-03-25 01:25:15,083 - api.utils - INFO - Getting user for username: testing123
+2023-03-25 01:25:15,419 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:25:15,421 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:25:15,431 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:25:15,476 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:25:17,020 - api.utils - INFO - Getting Flight instance with id 4
+2023-03-25 01:25:17,035 - api.utils - INFO - Getting Flight instance with id 4
+2023-03-25 01:25:30,533 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:25:30,538 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:25:30,543 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:25:30,590 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:26:17,087 - api.utils - INFO - Getting user for username: testing123
+2023-03-25 01:26:17,381 - api.utils - INFO - Getting user for username: testing123
+2023-03-25 01:26:17,673 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:26:17,674 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:26:17,690 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:26:17,734 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:27:19,135 - api.utils - INFO - Getting user for username: testing123
+2023-03-25 01:27:19,443 - api.utils - INFO - Getting user for username: testing123
+2023-03-25 01:27:20,013 - api.utils - INFO - Getting airline for username: testing123
+2023-03-25 01:27:20,018 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-25 01:27:22,193 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:27:22,198 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:27:22,204 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:27:22,253 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:29:10,184 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:29:10,185 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:29:26,407 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:29:26,414 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:29:26,421 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:29:26,479 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:29:27,954 - api.utils - INFO - Getting airline for username: testing123
+2023-03-25 01:29:27,958 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-25 01:29:27,989 - api.utils - INFO - Getting airline for username: testing123
+2023-03-25 01:29:27,994 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-25 01:29:29,776 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:29:29,795 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:29:29,807 - django.request - WARNING - Not Found: /api/flightById/undefined
+2023-03-25 01:29:29,827 - django.request - WARNING - Not Found: /api/flightById/undefined
+2023-03-25 01:29:31,249 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:29:31,253 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:29:31,260 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:29:31,297 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:29:32,482 - api.utils - INFO - Getting Flight instance with id 4
+2023-03-25 01:29:32,499 - api.utils - INFO - Getting Flight instance with id 4
+2023-03-25 01:29:45,291 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:29:45,292 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:29:45,302 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:29:45,333 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:29:48,058 - api.utils - INFO - Getting airline for username: testing123
+2023-03-25 01:29:48,062 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-25 01:29:48,092 - api.utils - INFO - Getting airline for username: testing123
+2023-03-25 01:29:48,097 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-25 01:29:49,287 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:29:49,291 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:29:49,297 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:29:49,338 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:29:50,171 - api.utils - INFO - Getting Flight instance with id 4
+2023-03-25 01:29:50,186 - api.utils - INFO - Getting Flight instance with id 4
+2023-03-25 01:29:52,564 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:29:52,572 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:29:52,580 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:29:52,616 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:29:54,170 - api.utils - INFO - Getting airline for username: testing123
+2023-03-25 01:29:54,174 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-25 01:29:54,204 - api.utils - INFO - Getting airline for username: testing123
+2023-03-25 01:29:54,210 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-25 01:29:56,497 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:29:56,503 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:29:56,510 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:29:56,548 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:30:15,520 - api.utils - INFO - Getting Flight instance with id 4
+2023-03-25 01:30:15,538 - api.utils - INFO - Getting Flight instance with id 4
+2023-03-25 01:30:16,691 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:30:16,699 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:30:16,702 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:30:16,746 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:30:18,144 - api.utils - INFO - Getting Flight instance with id 3
+2023-03-25 01:30:18,160 - api.utils - INFO - Getting Flight instance with id 3
+2023-03-25 01:30:27,159 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:30:27,164 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:30:27,176 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:30:27,227 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:30:38,684 - api.utils - INFO - Getting user for username: rehan.sathio
+2023-03-25 01:30:38,976 - api.utils - INFO - Getting user for username: rehan.sathio
+2023-03-25 01:30:39,477 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:30:39,479 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:30:39,488 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:30:39,519 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:30:40,801 - api.utils - INFO - Getting customer for username: rehan.sathio
+2023-03-25 01:30:40,805 - api.utils - INFO - Getting tickets for customer id: 1
+2023-03-25 01:30:40,860 - api.utils - INFO - Getting customer for username: rehan.sathio
+2023-03-25 01:30:40,865 - api.utils - INFO - Getting tickets for customer id: 1
+2023-03-25 01:30:44,665 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:30:44,667 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:30:44,686 - django.request - ERROR - Internal Server Error: /api/myFlights
+Traceback (most recent call last):
+  File "D:\PROGRAMMING\Fiverr\flight_management_system\.venv\Lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROGRAMMING\Fiverr\flight_management_system\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROGRAMMING\Fiverr\flight_management_system\.venv\Lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROGRAMMING\Fiverr\flight_management_system\.venv\Lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROGRAMMING\Fiverr\flight_management_system\.venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROGRAMMING\Fiverr\flight_management_system\.venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "D:\PROGRAMMING\Fiverr\flight_management_system\.venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "D:\PROGRAMMING\Fiverr\flight_management_system\.venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROGRAMMING\Fiverr\flight_management_system\.venv\Lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROGRAMMING\Fiverr\flight_management_system\api\views.py", line 82, in MyFlights
+    session.get_my_flights(), many=True)
+    ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'CustomerFacade' object has no attribute 'get_my_flights'
+2023-03-25 01:30:44,700 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:30:44,741 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:30:55,787 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:30:55,795 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:30:55,881 - api.utils - INFO - Getting Flight instance with id 3
+2023-03-25 01:30:55,892 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:30:55,893 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:30:55,912 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:30:55,940 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:30:58,744 - api.utils - INFO - Getting Flight instance with id 4
+2023-03-25 01:30:58,760 - api.utils - INFO - Getting Flight instance with id 4
+2023-03-25 01:30:59,957 - api.utils - INFO - Getting customer for username: rehan.sathio
+2023-03-25 01:30:59,961 - api.utils - INFO - Getting Flight instance with id 4
+2023-03-25 01:30:59,963 - api.utils - INFO - Adding Ticket instance to the database
+2023-03-25 01:30:59,965 - api.utils - INFO - Updating Flight instance in the database
+2023-03-25 01:31:02,033 - api.utils - INFO - Getting customer for username: rehan.sathio
+2023-03-25 01:31:02,038 - api.utils - INFO - Getting tickets for customer id: 1
+2023-03-25 01:31:02,100 - api.utils - INFO - Getting customer for username: rehan.sathio
+2023-03-25 01:31:02,105 - api.utils - INFO - Getting tickets for customer id: 1
+2023-03-25 01:31:25,525 - api.utils - INFO - Getting customer for username: rehan.sathio
+2023-03-25 01:31:25,528 - api.utils - INFO - Getting tickets for customer id: 1
+2023-03-25 01:31:25,575 - api.utils - INFO - Getting customer for username: rehan.sathio
+2023-03-25 01:31:25,579 - api.utils - INFO - Getting tickets for customer id: 1
+2023-03-25 01:32:06,900 - django.request - WARNING - Not Found: /
+2023-03-25 01:34:12,443 - django.utils.autoreload - INFO - D:\PROGRAMMING\Fiverr\flight_management_system\flight_management_system\urls.py changed, reloading.
+2023-03-25 01:49:58,775 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:49:58,775 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:50:07,851 - api.utils - INFO - Getting user for username: admin
+2023-03-25 01:50:20,268 - api.utils - INFO - Getting user for username: rehan.sathio
+2023-03-25 01:50:20,592 - api.utils - INFO - Getting user for username: rehan.sathio
+2023-03-25 01:50:20,799 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:50:20,800 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:50:23,336 - api.utils - INFO - Getting Flight instance with id 4
+2023-03-25 01:50:24,356 - api.utils - INFO - Getting customer for username: rehan.sathio
+2023-03-25 01:50:24,360 - api.utils - INFO - Getting Flight instance with id 4
+2023-03-25 01:50:24,362 - api.utils - INFO - Adding Ticket instance to the database
+2023-03-25 01:50:24,364 - api.utils - INFO - Updating Flight instance in the database
+2023-03-25 01:50:26,276 - api.utils - INFO - Getting customer for username: rehan.sathio
+2023-03-25 01:50:26,278 - api.utils - INFO - Getting tickets for customer id: 1
+2023-03-25 01:50:29,484 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:50:29,493 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:50:35,819 - api.utils - INFO - Getting flights for origin country id: 4, destination country id: 1, and date: 2023-03-25
+2023-03-25 01:50:36,620 - api.utils - INFO - Getting Flight instance with id 5
+2023-03-25 01:50:37,603 - api.utils - INFO - Getting customer for username: rehan.sathio
+2023-03-25 01:50:37,607 - api.utils - INFO - Getting Flight instance with id 5
+2023-03-25 01:50:37,608 - api.utils - INFO - Adding Ticket instance to the database
+2023-03-25 01:50:37,609 - api.utils - INFO - Updating Flight instance in the database
+2023-03-25 01:50:38,730 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:50:38,738 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:50:39,662 - api.utils - INFO - Getting customer for username: rehan.sathio
+2023-03-25 01:50:39,663 - api.utils - INFO - Getting tickets for customer id: 1
+2023-03-25 01:50:41,059 - api.utils - INFO - Getting all Country instances
+2023-03-25 01:50:41,068 - api.utils - INFO - Getting all Flight instances
+2023-03-25 01:50:42,611 - api.utils - INFO - Getting Flight instance with id 5
+2023-03-25 01:50:43,323 - api.utils - INFO - Getting customer for username: rehan.sathio
+2023-03-25 01:50:43,327 - api.utils - INFO - Getting Flight instance with id 5
+2023-03-25 01:50:43,328 - api.utils - INFO - Adding Ticket instance to the database
+2023-03-25 01:50:43,330 - api.utils - INFO - Updating Flight instance in the database
+2023-03-25 01:50:45,476 - api.utils - INFO - Getting customer for username: rehan.sathio
+2023-03-25 01:50:45,477 - api.utils - INFO - Getting tickets for customer id: 1
+2023-03-25 21:54:47,349 - api.utils - INFO - Getting all Country instances
+2023-03-25 21:54:47,350 - api.utils - INFO - Getting all Flight instances
+2023-03-25 21:54:47,467 - django.request - WARNING - Not Found: /vite.svg
+2023-03-25 21:54:50,685 - api.utils - INFO - Getting all Country instances
+2023-03-25 21:54:50,686 - api.utils - INFO - Getting all Flight instances
+2023-03-25 21:54:55,800 - api.utils - INFO - Getting all Country instances
+2023-03-25 21:54:55,801 - api.utils - INFO - Getting all Flight instances
+2023-03-25 21:54:56,763 - api.utils - INFO - Getting all Country instances
+2023-03-25 21:55:06,928 - api.utils - INFO - Getting all Country instances
+2023-03-25 21:55:06,929 - api.utils - INFO - Getting all Flight instances
+2023-03-25 21:55:10,239 - api.utils - INFO - Getting user for username: rehan.sathio
+2023-03-25 21:55:10,556 - api.utils - INFO - Getting user for username: rehan.sathio
+2023-03-25 21:55:10,760 - api.utils - INFO - Getting all Country instances
+2023-03-25 21:55:10,761 - api.utils - INFO - Getting all Flight instances
+2023-03-25 21:55:20,495 - api.utils - INFO - Getting user for username: testing123
+2023-03-25 21:55:20,810 - api.utils - INFO - Getting user for username: testing123
+2023-03-25 21:55:20,857 - django.request - WARNING - Not Found: /myFlights
+2023-03-25 21:55:25,006 - django.request - WARNING - Not Found: /myFlights
+2023-03-25 21:55:28,055 - api.utils - INFO - Getting all Country instances
+2023-03-25 21:55:28,059 - api.utils - INFO - Getting all Flight instances
+2023-03-25 21:55:39,111 - api.utils - INFO - Getting all Country instances
+2023-03-25 21:55:39,119 - api.utils - INFO - Getting all Flight instances
+2023-03-25 21:55:40,392 - api.utils - INFO - Getting all Country instances
+2023-03-25 21:55:40,396 - api.utils - INFO - Getting all Flight instances
+2023-03-25 22:56:18,367 - api.utils - INFO - Getting all Country instances
+2023-03-25 22:56:18,372 - api.utils - INFO - Getting all Flight instances
+2023-03-25 22:56:21,522 - django.request - WARNING - Not Found: /login
+2023-03-25 22:56:39,953 - django.utils.autoreload - INFO - D:\PROGRAMMING\Fiverr\flight_management_system\flight_management_system\urls.py changed, reloading.
+2023-03-25 22:59:09,676 - api.utils - INFO - Getting all Country instances
+2023-03-25 22:59:09,676 - api.utils - INFO - Getting all Flight instances
+2023-03-25 22:59:18,682 - api.utils - INFO - Getting all Country instances
+2023-03-25 22:59:20,787 - api.utils - INFO - Getting all Country instances
+2023-03-25 22:59:20,791 - api.utils - INFO - Getting all Flight instances
+2023-03-25 22:59:22,401 - api.utils - INFO - Getting all Country instances
+2023-03-25 22:59:23,608 - api.utils - INFO - Getting all Country instances
+2023-03-25 22:59:23,612 - api.utils - INFO - Getting all Flight instances
+2023-03-25 22:59:25,292 - api.utils - INFO - Getting user for username: rehan.sathio
+2023-03-25 22:59:25,585 - api.utils - INFO - Getting user for username: rehan.sathio
+2023-03-25 22:59:25,747 - api.utils - INFO - Getting all Country instances
+2023-03-25 22:59:25,756 - api.utils - INFO - Getting all Flight instances
+2023-03-25 22:59:26,791 - api.utils - INFO - Getting customer for username: rehan.sathio
+2023-03-25 22:59:26,796 - api.utils - INFO - Getting tickets for customer id: 1
+2023-03-25 22:59:36,077 - api.utils - INFO - Getting user for username: testing123
+2023-03-25 22:59:36,374 - api.utils - INFO - Getting user for username: testing123
+2023-03-25 22:59:36,538 - api.utils - INFO - Getting airline for username: testing123
+2023-03-25 22:59:36,543 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-25 22:59:40,915 - api.utils - INFO - Getting all Country instances
+2023-03-25 22:59:40,938 - django.request - WARNING - Not Found: /api/flightById/undefined
+2023-03-25 22:59:43,259 - api.utils - INFO - Getting airline for username: testing123
+2023-03-25 22:59:43,263 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-25 22:59:44,255 - api.utils - INFO - Getting all Country instances
+2023-03-25 22:59:44,259 - api.utils - INFO - Getting Flight instance with id 3
+2023-03-25 22:59:45,812 - api.utils - INFO - Getting airline for username: testing123
+2023-03-25 22:59:45,816 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-25 22:59:47,373 - api.utils - INFO - Getting Flight instance with id 1
+2023-03-25 22:59:47,378 - api.utils - INFO - Deleting Flight instance from the database
+2023-03-25 22:59:47,395 - api.utils - INFO - Getting airline for username: testing123
+2023-03-25 22:59:47,399 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-25 22:59:48,656 - api.utils - INFO - Getting all Country instances
+2023-03-25 22:59:48,660 - api.utils - INFO - Getting all Flight instances
+2023-03-25 21:48:38,108 - api.utils - INFO - Getting all Country instances
+2023-03-25 21:48:38,108 - api.utils - INFO - Getting all Flight instances
+2023-03-25 21:48:41,967 - api.utils - INFO - Getting all Country instances
+2023-03-25 21:50:18,162 - api.utils - INFO - Getting all Country instances
+2023-03-25 21:50:36,609 - api.utils - INFO - Getting Country instance with id 1
+2023-03-25 21:51:00,465 - api.utils - INFO - Getting Country instance with id 1
+2023-03-25 21:51:17,473 - api.utils - INFO - Getting Country instance with id 1
+2023-03-25 21:51:56,894 - api.utils - INFO - Getting Country instance with id 1
+2023-03-25 21:51:57,890 - api.utils - INFO - Getting Country instance with id 1
+2023-03-25 21:51:58,339 - api.utils - INFO - Getting Country instance with id 1
+2023-03-25 21:53:11,358 - api.utils - INFO - Getting Country instance with id 1
+2023-03-25 21:53:17,348 - api.utils - INFO - Getting all Country instances
+2023-03-25 21:53:17,366 - api.utils - INFO - Getting all Flight instances
+2023-03-25 21:53:19,061 - api.utils - INFO - Getting all Country instances
+2023-03-25 21:54:01,603 - django.request - ERROR - Internal Server Error: /api/register
+Traceback (most recent call last):
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\hajm3\OneDrive - Medtronic PLC\Desktop\SUBMISSION_v6\api\views.py", line 120, in Register
+    customer = session.add_customer(data['username'], data['password'], data['email'], data['first_name'],
+  File "C:\Users\hajm3\OneDrive - Medtronic PLC\Desktop\SUBMISSION_v6\api\facades.py", line 254, in add_customer
+    user_role = UserRoles.objects.get(role_name='customer')
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+api.models.UserRoles.DoesNotExist: UserRoles matching query does not exist.
+2023-03-25 21:54:06,151 - django.request - ERROR - Internal Server Error: /api/register
+Traceback (most recent call last):
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\hajm3\OneDrive - Medtronic PLC\Desktop\SUBMISSION_v6\api\views.py", line 120, in Register
+    customer = session.add_customer(data['username'], data['password'], data['email'], data['first_name'],
+  File "C:\Users\hajm3\OneDrive - Medtronic PLC\Desktop\SUBMISSION_v6\api\facades.py", line 254, in add_customer
+    user_role = UserRoles.objects.get(role_name='customer')
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+api.models.UserRoles.DoesNotExist: UserRoles matching query does not exist.
+2023-03-25 21:56:01,387 - django.request - ERROR - Internal Server Error: /api/register
+Traceback (most recent call last):
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\hajm3\OneDrive - Medtronic PLC\Desktop\SUBMISSION_v6\api\views.py", line 120, in Register
+    customer = session.add_customer(data['username'], data['password'], data['email'], data['first_name'],
+  File "C:\Users\hajm3\OneDrive - Medtronic PLC\Desktop\SUBMISSION_v6\api\facades.py", line 254, in add_customer
+    user_role = UserRoles.objects.get(role_name='customer')
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+api.models.UserRoles.DoesNotExist: UserRoles matching query does not exist.
+2023-03-25 21:56:56,488 - django.request - ERROR - Internal Server Error: /api/register
+Traceback (most recent call last):
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\hajm3\OneDrive - Medtronic PLC\Desktop\SUBMISSION_v6\api\views.py", line 120, in Register
+    customer = session.add_customer(data['username'], data['password'], data['email'], data['first_name'],
+  File "C:\Users\hajm3\OneDrive - Medtronic PLC\Desktop\SUBMISSION_v6\api\facades.py", line 254, in add_customer
+    user_role = UserRoles.objects.get(role_name='customer')
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\db\models\query.py", line 650, in get
+    raise self.model.DoesNotExist(
+api.models.UserRoles.DoesNotExist: UserRoles matching query does not exist.
+2023-03-25 21:58:35,994 - api.utils - INFO - Adding User instance to the database
+2023-03-25 21:58:35,999 - api.utils - INFO - Adding Customer instance to the database
+2023-03-25 21:58:36,001 - api.utils - INFO - Getting user for username: Leenafarhat
+2023-03-25 21:58:36,474 - api.utils - INFO - Getting all Country instances
+2023-03-25 21:58:36,476 - api.utils - INFO - Getting all Flight instances
+2023-03-25 21:58:47,829 - api.utils - INFO - Getting user for username: Leenafarhat
+2023-03-25 21:58:48,211 - api.utils - INFO - Getting user for username: Leenafarhat
+2023-03-25 21:58:48,327 - api.utils - INFO - Getting all Country instances
+2023-03-25 21:58:48,329 - api.utils - INFO - Getting all Flight instances
+2023-03-25 21:59:39,179 - api.utils - INFO - Getting all Country instances
+2023-03-25 21:59:39,182 - api.utils - INFO - Getting all Flight instances
+2023-03-25 21:59:40,261 - api.utils - INFO - Getting all Country instances
+2023-03-25 22:00:04,264 - api.utils - INFO - Getting Country instance with id 1
+2023-03-25 22:00:04,687 - api.utils - INFO - Adding User instance to the database
+2023-03-25 22:00:04,695 - api.utils - INFO - Adding AirlineCompany instance to the database
+2023-03-25 22:00:04,700 - api.utils - INFO - Getting user for username: Flydua
+2023-03-25 22:00:05,219 - api.utils - INFO - Getting airline for username: Flydua
+2023-03-25 22:00:05,223 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-25 22:00:06,826 - api.utils - INFO - Getting all Country instances
+2023-03-25 22:00:06,836 - django.request - WARNING - Not Found: /api/flightById/undefined
+2023-03-26 11:34:32,171 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2023-03-26 11:34:32,173 - PIL.PngImagePlugin - DEBUG - STREAM b'PLTE' 41 144
+2023-03-26 11:34:32,174 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 197 3623
+2023-03-26 11:34:43,218 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2023-03-26 11:34:43,219 - PIL.PngImagePlugin - DEBUG - STREAM b'PLTE' 41 108
+2023-03-26 11:34:43,219 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 161 1395
+2023-03-26 11:34:55,358 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2023-03-26 11:34:55,359 - PIL.PngImagePlugin - DEBUG - STREAM b'PLTE' 41 12
+2023-03-26 11:34:55,360 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 65 209
+2023-03-26 11:35:13,108 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2023-03-26 11:35:13,109 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 41 4
+2023-03-26 11:35:13,109 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 57 1
+2023-03-26 11:35:13,110 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2023-03-26 11:35:13,111 - PIL.PngImagePlugin - DEBUG - STREAM b'PLTE' 91 12
+2023-03-26 11:35:13,111 - PIL.PngImagePlugin - DEBUG - STREAM b'tRNS' 115 1
+2023-03-26 11:35:13,112 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 128 821
+2023-03-26 11:35:28,458 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2023-03-26 11:35:28,459 - PIL.PngImagePlugin - DEBUG - STREAM b'PLTE' 41 144
+2023-03-26 11:35:28,460 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 197 1355
+2023-03-26 11:37:10,097 - api.utils - INFO - Getting user for username: Molhamhaj
+2023-03-26 11:37:10,785 - django.request - ERROR - Internal Server Error: /api/login
+Traceback (most recent call last):
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\hajm3\OneDrive - Medtronic PLC\Desktop\SUBMISSION_v6\api\views.py", line 155, in Login
+    return JsonResponse(object_serializer.data, safe=False)
+UnboundLocalError: local variable 'object_serializer' referenced before assignment
+2023-03-26 11:37:15,599 - api.utils - INFO - Getting user for username: Molhamhaj
+2023-03-26 11:37:16,417 - django.request - ERROR - Internal Server Error: /api/login
+Traceback (most recent call last):
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\django\views\generic\base.py", line 103, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\hajm3\AppData\Local\Programs\Python\Python310\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\hajm3\OneDrive - Medtronic PLC\Desktop\SUBMISSION_v6\api\views.py", line 155, in Login
+    return JsonResponse(object_serializer.data, safe=False)
+UnboundLocalError: local variable 'object_serializer' referenced before assignment
+2023-03-26 11:37:30,214 - api.utils - INFO - Getting user for username: Leenafarhat
+2023-03-26 11:37:30,921 - api.utils - INFO - Getting user for username: Leenafarhat
+2023-03-26 11:37:31,311 - api.utils - INFO - Getting all Flight instances
+2023-03-26 11:37:31,313 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:38:05,283 - api.utils - INFO - Getting user for username: Flydua
+2023-03-26 11:38:05,929 - api.utils - INFO - Getting user for username: Flydua
+2023-03-26 11:38:06,212 - api.utils - INFO - Getting airline for username: Flydua
+2023-03-26 11:38:06,222 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-26 11:38:07,674 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:38:07,692 - django.request - WARNING - Not Found: /api/flightById/undefined
+2023-03-26 11:38:41,870 - api.utils - INFO - Getting airline for username: Flydua
+2023-03-26 11:38:41,877 - api.utils - INFO - Getting Country instance with id 6
+2023-03-26 11:38:41,879 - api.utils - INFO - Getting Country instance with id 1
+2023-03-26 11:38:41,882 - api.utils - INFO - Adding Flight instance to the database
+2023-03-26 11:38:41,932 - api.utils - INFO - Getting airline for username: Flydua
+2023-03-26 11:38:41,941 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-26 11:38:46,779 - api.utils - INFO - Getting Flight instance with id 1
+2023-03-26 11:38:46,782 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:38:48,309 - api.utils - INFO - Getting Flight instance with id 1
+2023-03-26 11:38:48,330 - api.utils - INFO - Getting Country instance with id 6
+2023-03-26 11:38:48,332 - api.utils - INFO - Getting Country instance with id 1
+2023-03-26 11:38:48,335 - api.utils - INFO - Updating Flight instance in the database
+2023-03-26 11:38:48,368 - api.utils - INFO - Getting airline for username: Flydua
+2023-03-26 11:38:48,385 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-26 11:38:51,040 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:38:51,053 - django.request - WARNING - Not Found: /api/flightById/undefined
+2023-03-26 11:39:22,519 - api.utils - INFO - Getting airline for username: Flydua
+2023-03-26 11:39:22,530 - api.utils - INFO - Getting Country instance with id 6
+2023-03-26 11:39:22,532 - api.utils - INFO - Getting Country instance with id 2
+2023-03-26 11:39:22,535 - api.utils - INFO - Adding Flight instance to the database
+2023-03-26 11:39:22,628 - api.utils - INFO - Getting airline for username: Flydua
+2023-03-26 11:39:22,636 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-26 11:39:24,139 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:39:24,142 - api.utils - INFO - Getting Flight instance with id 1
+2023-03-26 11:39:27,650 - api.utils - INFO - Getting Flight instance with id 1
+2023-03-26 11:39:27,661 - api.utils - INFO - Getting Country instance with id 6
+2023-03-26 11:39:27,664 - api.utils - INFO - Getting Country instance with id 1
+2023-03-26 11:39:27,666 - api.utils - INFO - Updating Flight instance in the database
+2023-03-26 11:39:27,728 - api.utils - INFO - Getting airline for username: Flydua
+2023-03-26 11:39:27,737 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-26 11:39:40,081 - api.utils - INFO - Getting all Flight instances
+2023-03-26 11:39:40,084 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:46:06,677 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:47:05,912 - api.utils - INFO - Adding User instance to the database
+2023-03-26 11:47:05,919 - api.utils - INFO - Adding Customer instance to the database
+2023-03-26 11:47:05,923 - api.utils - INFO - Getting user for username: Mohannadhaj
+2023-03-26 11:47:06,749 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:47:06,752 - api.utils - INFO - Getting all Flight instances
+2023-03-26 11:47:32,999 - api.utils - INFO - Getting user for username: Rawimousa
+2023-03-26 11:47:33,004 - api.utils - WARNING - No user found for username: Rawimousa
+2023-03-26 11:47:35,163 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:47:35,166 - api.utils - INFO - Getting all Flight instances
+2023-03-26 11:47:36,478 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:48:09,701 - api.utils - INFO - Adding User instance to the database
+2023-03-26 11:48:09,705 - api.utils - INFO - Adding Customer instance to the database
+2023-03-26 11:48:09,709 - api.utils - INFO - Getting user for username: Rawimousa
+2023-03-26 11:48:10,469 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:48:10,471 - api.utils - INFO - Getting all Flight instances
+2023-03-26 11:48:17,791 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:48:17,793 - api.utils - INFO - Getting all Flight instances
+2023-03-26 11:48:29,788 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:48:35,056 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:48:35,058 - api.utils - INFO - Getting all Flight instances
+2023-03-26 11:48:48,838 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:48:48,840 - api.utils - INFO - Getting all Flight instances
+2023-03-26 11:48:52,839 - api.utils - INFO - Getting user for username: LeenaAirlines
+2023-03-26 11:48:52,853 - api.utils - WARNING - No user found for username: LeenaAirlines
+2023-03-26 11:49:02,857 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:49:02,861 - api.utils - INFO - Getting all Flight instances
+2023-03-26 11:49:05,953 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:49:05,957 - api.utils - INFO - Getting all Flight instances
+2023-03-26 11:49:07,163 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:49:29,071 - api.utils - INFO - Getting Country instance with id 3
+2023-03-26 11:49:29,629 - api.utils - INFO - Adding User instance to the database
+2023-03-26 11:49:29,649 - api.utils - INFO - Adding AirlineCompany instance to the database
+2023-03-26 11:49:29,655 - api.utils - INFO - Getting user for username: LeenaAirlines
+2023-03-26 11:49:30,514 - api.utils - INFO - Getting airline for username: LeenaAirlines
+2023-03-26 11:49:30,524 - api.utils - INFO - Getting flights for airline id: 2
+2023-03-26 11:49:35,226 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:49:35,241 - django.request - WARNING - Not Found: /api/flightById/undefined
+2023-03-26 11:50:07,233 - api.utils - INFO - Getting airline for username: LeenaAirlines
+2023-03-26 11:50:07,241 - api.utils - INFO - Getting Country instance with id 3
+2023-03-26 11:50:07,243 - api.utils - INFO - Getting Country instance with id 2
+2023-03-26 11:50:07,244 - api.utils - INFO - Adding Flight instance to the database
+2023-03-26 11:50:07,302 - api.utils - INFO - Getting airline for username: LeenaAirlines
+2023-03-26 11:50:07,311 - api.utils - INFO - Getting flights for airline id: 2
+2023-03-26 11:50:09,161 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:50:09,177 - django.request - WARNING - Not Found: /api/flightById/undefined
+2023-03-26 11:50:44,452 - api.utils - INFO - Getting airline for username: LeenaAirlines
+2023-03-26 11:50:44,459 - api.utils - INFO - Getting Country instance with id 2
+2023-03-26 11:50:44,461 - api.utils - INFO - Getting Country instance with id 3
+2023-03-26 11:50:44,462 - api.utils - INFO - Adding Flight instance to the database
+2023-03-26 11:50:44,499 - api.utils - INFO - Getting airline for username: LeenaAirlines
+2023-03-26 11:50:44,507 - api.utils - INFO - Getting flights for airline id: 2
+2023-03-26 11:50:48,948 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:50:48,966 - django.request - WARNING - Not Found: /api/flightById/undefined
+2023-03-26 11:51:17,884 - api.utils - INFO - Getting airline for username: LeenaAirlines
+2023-03-26 11:51:17,893 - api.utils - INFO - Getting Country instance with id 3
+2023-03-26 11:51:17,895 - api.utils - INFO - Getting Country instance with id 4
+2023-03-26 11:51:17,898 - api.utils - INFO - Adding Flight instance to the database
+2023-03-26 11:51:17,942 - api.utils - INFO - Getting airline for username: LeenaAirlines
+2023-03-26 11:51:17,949 - api.utils - INFO - Getting flights for airline id: 2
+2023-03-26 11:51:19,558 - api.utils - INFO - Getting all Country instances
+2023-03-26 11:51:19,572 - django.request - WARNING - Not Found: /api/flightById/undefined
+2023-03-26 11:52:12,439 - api.utils - INFO - Getting airline for username: LeenaAirlines
+2023-03-26 11:52:12,447 - api.utils - INFO - Getting Country instance with id 4
+2023-03-26 11:52:12,449 - api.utils - INFO - Getting Country instance with id 3
+2023-03-26 11:52:12,451 - api.utils - INFO - Adding Flight instance to the database
+2023-03-26 11:52:12,489 - api.utils - INFO - Getting airline for username: LeenaAirlines
+2023-03-26 11:52:12,499 - api.utils - INFO - Getting flights for airline id: 2
+2023-03-26 11:52:17,548 - api.utils - INFO - Getting all Flight instances
+2023-03-26 11:52:17,552 - api.utils - INFO - Getting all Country instances
+2023-03-26 12:14:54,287 - api.utils - INFO - Getting Flight instance with id 3
+2023-03-26 12:14:57,068 - api.utils - INFO - Getting all Country instances
+2023-03-26 12:14:57,074 - api.utils - INFO - Getting all Flight instances
+2023-03-27 09:55:44,786 - api.utils - INFO - Getting Flight instance with id 3
+2023-03-27 09:55:46,815 - api.utils - INFO - Getting all Country instances
+2023-03-27 09:55:46,822 - api.utils - INFO - Getting all Flight instances
+2023-03-27 15:50:42,028 - api.utils - INFO - Getting user for username: Flydua
+2023-03-27 15:50:42,698 - api.utils - INFO - Getting user for username: Flydua
+2023-03-27 15:50:43,237 - api.utils - INFO - Getting airline for username: Flydua
+2023-03-27 15:50:43,287 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-27 15:50:50,260 - api.utils - INFO - Getting all Flight instances
+2023-03-27 15:50:50,274 - api.utils - INFO - Getting all Country instances
+2023-03-27 15:50:50,788 - api.utils - INFO - Getting airline for username: Flydua
+2023-03-27 15:50:50,808 - api.utils - INFO - Getting flights for airline id: 1
+2023-03-27 15:51:21,028 - api.utils - INFO - Getting user for username: RawiMousa
+2023-03-27 15:51:28,768 - api.utils - INFO - Getting user for username: RawiMousa
+2023-03-27 15:51:29,391 - api.utils - INFO - Getting user for username: RawiMousa
+2023-03-27 15:51:29,885 - api.utils - INFO - Getting all Country instances
+2023-03-27 15:51:29,889 - api.utils - INFO - Getting all Flight instances
+2023-03-27 15:59:28,387 - api.utils - INFO - Getting all Country instances
+2023-03-27 15:59:28,407 - api.utils - INFO - Getting all Flight instances
+2023-03-27 16:01:34,305 - api.utils - INFO - Getting all Country instances
+2023-03-27 16:01:34,314 - api.utils - INFO - Getting all Flight instances
+2023-03-27 16:06:49,172 - api.utils - INFO - Getting all Country instances
+2023-03-27 16:06:49,178 - api.utils - INFO - Getting all Flight instances
+2023-03-27 18:07:00,400 - django.request - WARNING - Not Found: /favicon.ico
+2023-03-27 18:07:05,861 - api.utils - INFO - Getting all Country instances
+2023-03-27 18:07:05,889 - api.utils - INFO - Getting all Flight instances
+2023-03-27 18:07:10,635 - django.request - WARNING - Not Found: /vite.svg
+2023-03-27 20:22:04,724 - api.utils - INFO - Getting all Country instances
+2023-03-27 20:22:04,727 - api.utils - INFO - Getting all Flight instances
+2023-03-29 10:06:27,226 - api.utils - INFO - Getting all Country instances
+2023-03-29 10:06:27,229 - api.utils - INFO - Getting all Flight instances
+2023-03-30 16:20:59,646 - api.utils - INFO - Getting all Flight instances
+2023-03-30 16:20:59,650 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:57:03,918 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:57:03,918 - api.utils - INFO - Getting all Flight instances
+2023-04-06 10:57:07,541 - api.utils - INFO - Getting user for username: Flydua
+2023-04-06 10:57:07,984 - api.utils - INFO - Getting user for username: Flydua
+2023-04-06 10:57:08,188 - api.utils - INFO - Getting airline for username: Flydua
+2023-04-06 10:57:08,197 - api.utils - INFO - Getting flights for airline id: 1
+2023-04-06 10:57:12,113 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:57:12,116 - api.utils - INFO - Getting all Flight instances
+2023-04-06 10:57:14,382 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:57:14,384 - api.utils - INFO - Getting all Flight instances
+2023-04-06 10:57:20,494 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:57:20,506 - api.utils - INFO - Getting all Flight instances
+2023-04-06 10:57:20,508 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:57:21,326 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:57:21,335 - api.utils - INFO - Getting all Flight instances
+2023-04-06 10:57:24,107 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:57:24,112 - api.utils - INFO - Getting all Flight instances
+2023-04-06 10:57:25,521 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:57:25,531 - api.utils - INFO - Getting all Flight instances
+2023-04-06 10:57:34,317 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:57:34,325 - api.utils - INFO - Getting all Flight instances
+2023-04-06 10:57:34,337 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:57:35,117 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:57:35,120 - api.utils - INFO - Getting all Flight instances
+2023-04-06 10:57:35,128 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:57:35,694 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:57:35,698 - api.utils - INFO - Getting all Flight instances
+2023-04-06 10:57:35,713 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:58:08,060 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:58:08,061 - api.utils - INFO - Getting all Flight instances
+2023-04-06 10:58:09,619 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:58:11,629 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:58:11,630 - api.utils - INFO - Getting all Flight instances
+2023-04-06 10:58:23,812 - api.utils - INFO - Getting all Country instances
+2023-04-06 10:58:23,814 - api.utils - INFO - Getting all Flight instances
+2023-04-06 11:01:18,855 - api.utils - INFO - Getting all Country instances
+2023-04-06 11:01:18,856 - api.utils - INFO - Getting all Flight instances
+2023-04-06 11:05:20,496 - api.utils - INFO - Getting all Country instances
+2023-04-06 11:05:20,502 - api.utils - INFO - Getting all Flight instances
+2023-04-06 11:06:05,487 - api.utils - INFO - Getting all Country instances
+2023-04-06 11:06:05,518 - api.utils - INFO - Getting all Flight instances
+2023-04-06 11:07:26,245 - api.utils - INFO - Getting all Country instances
+2023-04-06 11:07:26,245 - api.utils - INFO - Getting all Flight instances
+2023-04-06 13:13:14,093 - api.utils - INFO - Getting all Country instances
+2023-04-06 13:13:14,093 - api.utils - INFO - Getting all Flight instances
+2023-04-06 13:13:16,939 - api.utils - INFO - Getting all Country instances
+2023-04-06 13:13:16,943 - api.utils - INFO - Getting all Flight instances
