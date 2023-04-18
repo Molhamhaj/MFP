@@ -96,7 +96,7 @@ WSGI_APPLICATION = 'flight_management_system.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'flights_test',
+        'NAME': 'flights',
         # 'NAME': 'test_db',
         'USER': 'root',
         # 'PASSWORD': '0000',

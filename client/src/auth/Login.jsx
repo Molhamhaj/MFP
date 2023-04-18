@@ -39,11 +39,6 @@ const Login = () => {
     }
     return isValid;
   };
-  const navigateToRegister = () => {
-    // 👇️ navigate to /register
-    navigate('/register');
-  };
-
 
   // Function to submit form data
   const submitForm = () => {
@@ -135,9 +130,6 @@ const Login = () => {
                 Login
               </button>
               <div className="mt-5 text-danger" id="error" />
-            </div>
-            <div className="mt-5 text-center">
-              <button onClick={navigateToRegister}  type="button" className="btn btn-success bg-success w-25">Register</button>
             </div>
           </div>
         </div>

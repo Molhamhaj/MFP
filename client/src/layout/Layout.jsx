@@ -4,9 +4,6 @@ import UserData from "../contexts/UserData";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import { checkLoginFromNonLogin } from "../CONSTANT";
-
-
-
 export default function Layout(props) {
   let navigate = useNavigate();
   // ------------------

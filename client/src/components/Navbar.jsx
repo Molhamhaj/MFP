@@ -69,7 +69,7 @@ export default function Navbar(props) {
               </>
             ) : (
               <>
-                <span data-mode="loggedin" className="me-3 text-light" >{props?.session?.personal?.username}</span>
+                <span data-mode="loggedin" className="me-3 text-light" />
                 <button
                   onClick={logout}
                   className="btn btn-outline-danger"
