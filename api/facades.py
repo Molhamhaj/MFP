@@ -250,18 +250,18 @@ class AnonymousFacade(FacadeBase):
             print("Credit card number already exists")
             return None
             raise ValueError("Credit card number already exists")
-
-        user_role = UserRoles.objects.get(role_name='customer')
-        user = User(username=username, password=make_password(
-            password), email=email, user_role=user_role)
+        
         try:
+            user_role = UserRoles.objects.get(role_name='customer')
+            user = User(username=username, password=make_password(
+                password), email=email, user_role=user_role)
             self.dal.add(user)
             customer = Customer(user=user, first_name=first_name, last_name=last_name,
                                 address=address, phone_no=phone_no, credit_card_no=credit_card_no)
             self.dal.add(customer)
             return user
-        except Exception as e:
-            print(e)
+        except Exception as error:
+            print(error)
             return None
 
 
@@ -771,10 +771,11 @@ class AdministratorFacade(FacadeBase):
             print("Credit card number already exists")
             return None
             raise ValueError("Credit card number already exists")
-        try:
-            user_role = UserRoles.objects.get(role_name='customer')
-            user = User(username=username, password=make_password(
+
+        user_role = UserRoles.objects.get(role_name='customer')
+        user = User(username=username, password=make_password(
             password), email=email, user_role=user_role)
+        try:
             self.dal.add(user)
             customer = Customer(user=user, first_name=first_name, last_name=last_name,
                                 address=address, phone_no=phone_no, credit_card_no=credit_card_no)
